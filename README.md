@@ -17,6 +17,6 @@ Then you can open the browser and see the contents at **http://localhost:3000/**
 
 ## Screenshot
 
-![](https://github.com/wangdicoder/meteor-react-start-kit/raw/master/screenshot/screenshot/s1.png)
-![](https://github.com/wangdicoder/meteor-react-start-kit/raw/master/screenshot/screenshot/s2.png)
-![](https://github.com/wangdicoder/meteor-react-start-kit/raw/master/screenshot/screenshot/s3.png)
+![](https://github.com/wangdicoder/meteor-react-start-kit/raw/master/screenshot/s1.png)
+![](https://github.com/wangdicoder/meteor-react-start-kit/raw/master/screenshot/s2.png)
+![](https://github.com/wangdicoder/meteor-react-start-kit/raw/master/screenshot/s3.png)
